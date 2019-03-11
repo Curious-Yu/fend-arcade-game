@@ -13,7 +13,7 @@ This is the project 3 of the Udacity/Google-FEND program. The purpose of this pr
 
 Udacity - initial work - [frontend-nanodegree-arcade-game](https://github.com/udacity/frontend-nanodegree-arcade-game)
 
-Wen Yu - completing the game - [frontend-nanodegree-arcade-game](https://github.com/WYCodeBook/frontend-nanodegree-arcade-game)
+Wen Yu - completing the game - [frontend-nanodegree-arcade-game](https://curious-yu.github.io/fend-arcade-game/)
 
 ## Game Functionality
 
