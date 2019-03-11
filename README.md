@@ -7,7 +7,7 @@ This is the project 3 of the Udacity/Google-FEND program. The purpose of this pr
 
 [Walk-through instructions](https://matthewcranford.com/category/blog-posts/walkthrough/arcade-game/) are provided to help succeeding the project.
 
-[Click to Play the Game](https://wycodebook.github.io/fend-arcade-game/)
+[Click to Play the Game](https://curious-yu.github.io/fend-arcade-game/)
 
 ## Author
 
