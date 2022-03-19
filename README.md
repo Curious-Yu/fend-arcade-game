@@ -1,4 +1,4 @@
-[Classic Arcade Game](https://wycodebook.github.io/fend-arcade-game/)
+[Classic Arcade Game](https://curious-yu.github.io/fend-arcade-game/)
 ===============================
 
 ## About the project
